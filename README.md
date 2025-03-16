@@ -1,5 +1,9 @@
 ## Hi there 👋
 You can check my website => <a href="https://mrvasil.ru">mrvasil.ru</a>
+<br><br>
+![GitHub Trends](https://api.githubtrends.io/user/svg/mrvasil/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
+
+
 <!--
 **mrvasil/mrvasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
