@@ -1,7 +1,7 @@
 ## Hi there 👋
 You can check my website => <a href="https://mrvasil.ru">mrvasil.ru</a>
 <br><br>
-![GitHub Trends](https://api.githubtrends.io/user/svg/mrvasil/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark)
+![GitHub Trends](https://api.githubtrends.io/user/svg/mrvasil/repos?time_range=one_year&include_private=True&group=private&loc_metric=changed&theme=dark) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrvasil&show_icons=true&theme=tokyonight)
 
 
 <!--
